@@ -10,5 +10,5 @@
 
 <div align="center">
 
-
+CS Undergrad Based in Boulder, CO. Interested in Quantum, ML, and everything in between :)
 </div>
